@@ -49,11 +49,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
-      #### I’m a passionate developer and creative digital artist with a strong
-      interest in web development, cybersecurity, and artificial intelligence. I
-      combine technical expertise with artistic creativity to craft innovative
-      solutions and captivating visuals.
+    text: |+
+      ####
 
   - colors: colors-f
     type: FeaturedProjectsSection
