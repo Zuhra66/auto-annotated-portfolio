@@ -137,7 +137,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: zuhra_81049
         styles:
           self:
             textAlign: left
