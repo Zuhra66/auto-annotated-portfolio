@@ -217,7 +217,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      zuhra.totakhail\@gmail.com
   - type: DividerSection
     styles:
       self:
