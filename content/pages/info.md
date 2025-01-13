@@ -233,17 +233,16 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: DividerSection
+    title: Divider
+    elementId: ''
     styles:
       self:
-        width: wide
+        width: full
         padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
+          - pt-36
+          - pb-36
         justifyContent: center
         borderWidth: 1
-        borderStyle: solid
   - type: ContactSection
     backgroundSize: full
     title: "Let’s talk... \U0001F4AC"
