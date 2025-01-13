@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       I’m a passionate developer and creative digital artist with a strong
       interest in web development, cybersecurity, and artificial intelligence. I
