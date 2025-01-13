@@ -137,7 +137,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/channels/@'
+            url: 'https://discord.com/channels/@zuhra_81049'
         styles:
           self:
             textAlign: left
