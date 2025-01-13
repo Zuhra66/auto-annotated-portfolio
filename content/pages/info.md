@@ -199,7 +199,7 @@ sections:
       - type: Label
         label: JavaScript
       - type: Label
-        label: Swift
+        label: MySQL
   - type: DividerSection
     styles:
       self:
