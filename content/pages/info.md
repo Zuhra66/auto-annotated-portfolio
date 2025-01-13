@@ -255,18 +255,19 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2024-2025**
 
-          * ba computer sciense at a semi fancy school
+          *   BCS computer science at California State University, Monterey Bay
+          *   Located in Marina and Seaside.
 
-          **2014**
+          **2020-2023**
 
-          * react certificate somewhere
+          *   A.S. Computer Science at Folsom Lake College
+          *   Located in Folsom Lake 
 
-          **2011**
 
-          * my highschool
+
         styles:
           self:
             textAlign: left
