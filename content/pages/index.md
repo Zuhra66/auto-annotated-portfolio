@@ -14,8 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a passionate developer and creative digital artist with a strong
+      interest in web development, cybersecurity, and artificial intelligence. I
+      combine technical expertise with artistic creativity to craft innovative
+      solutions and captivating visuals.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
