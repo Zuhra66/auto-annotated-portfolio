@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: "#### Hey, I'm\_**Zuhra Totakhail**, a passionate Computer Science student at\_**California State University, Monterey Bay**. My journey in technology began with a deep fascination for problem-solving and the endless possibilities of programming.\n\nI graduated in May 2023 from\_**Folsom Lake Community College**\_with an Associate's Degree in Computer Science. I am now expanding my knowledge in areas like\_**Cybersecurity**,\_**Web Development**, and\_**AI coding**, constantly seeking to refine my skills.\n\nWhen I'm not immersed in coding, I enjoy exploring new programming languages, engaging in cybersecurity challenges, and staying up to date with the latest tech trends. My goal is to contribute meaningfully to the field of technology while continually learning and growing as a developer.\n"
+    text: "##### Hey, I'm\_**Zuhra Totakhail**, a passionate Computer Science student at\_**California State University, Monterey Bay**. My journey in technology began with a deep fascination for problem-solving and the endless possibilities of programming.\n\nI graduated in May 2023 from\_**Folsom Lake Community College**\_with an Associate's Degree in Computer Science. I am now expanding my knowledge in areas like\_**Cybersecurity**,\_**Web Development**, and\_**AI coding**, constantly seeking to refine my skills.\n\nWhen I'm not immersed in coding, I enjoy exploring new programming languages, engaging in cybersecurity challenges, and staying up to date with the latest tech trends. My goal is to contribute meaningfully to the field of technology while continually learning and growing as a developer.\n"
     media:
       type: ImageBlock
       url: /images/about.jpg
